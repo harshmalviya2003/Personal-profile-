@@ -101,19 +101,3 @@
       text-align: justify;
     }
   }
-
-
-  @media screen and (max-width: 600px) {
-    .conatct-info-upper-container{
-      width: 300px;
-    }
-
-    .contact-indo-container p{
-      font-size: 11px;
-    }
-
-    .contact-indo-container img{
-      height: 22px;
-      width: 22px;
-    }
-  }
